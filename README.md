@@ -11,4 +11,4 @@ Animation of a Flip Up garage door for Mechanism Sessional (ME29002) Group Proje
 
 Hope you enjoy this animation. Thank You ! ! !
 
-![Flip up garage door animation](Mech Flip Gate Python/animation.gif)
+![Flip up garage door animation](animation.gif)
